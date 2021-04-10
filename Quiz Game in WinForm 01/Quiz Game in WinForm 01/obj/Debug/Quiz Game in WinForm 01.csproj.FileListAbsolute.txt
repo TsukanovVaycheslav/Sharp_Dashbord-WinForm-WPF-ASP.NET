@@ -1,0 +1,10 @@
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz_Game_in_WinForm_01.Form1.resources
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz_Game_in_WinForm_01.Properties.Resources.resources
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz Game in WinForm 01.csproj.GenerateResource.cache
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz Game in WinForm 01.csproj.CoreCompileInputs.cache
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\bin\Debug\Quiz Game in WinForm 01.exe.config
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\bin\Debug\Quiz Game in WinForm 01.exe
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\bin\Debug\Quiz Game in WinForm 01.pdb
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz Game in WinForm 01.exe
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz Game in WinForm 01.pdb
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\Quiz Game in WinForm 01\Quiz Game in WinForm 01\obj\Debug\Quiz Game in WinForm 01.csprojAssemblyReference.cache
